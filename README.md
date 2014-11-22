@@ -42,3 +42,7 @@ now you can use Resumable every where to handle uploading file
 ```
 You should define a callback, this callback will be call when the uploading success.
 Have fun with this. 
+
+## Demo##
+
+[evolpas.com/demo-resumable/](http://evolpas.com/demo-resumable/)
